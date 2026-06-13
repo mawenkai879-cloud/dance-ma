@@ -1,0 +1,31 @@
+train/
+test/
+edge_aistpp/
+dataset_backups/
+runs/
+wandb/
+renders/
+.ipynb_checkpoints/
+__pycache__/
+*.gif
+*.mp4
+*.pkl
+*.pt
+*.npy
+*.zip
+cached_features/
+custom_music/
+
+# datasets, model weights, large assets (too large for GitHub)
+data/
+smpl_model/
+smpl_tmp/
+SMPL_python_v.*.zip
+checkpoint*.pt
+*.npz
+*.bin
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/

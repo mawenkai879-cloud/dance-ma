@@ -1,0 +1,5 @@
+variant,hier_conditioning,hier_loss,PFC_down,beat_align_up,fid_k_down,div_k,div_k_gt
+A_baseline,no,no,1.2785,0.2214,472.48,15.40,10.21
+B_hier_cond_only,yes,no,0.8484,0.2623,161.94,13.33,10.21
+C_hier_loss_only,no,yes,1.0365,0.2603,410.09,15.51,10.21
+D_both,yes,yes,1.6345,0.3060,2282.59,33.01,10.21

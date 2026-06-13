@@ -1,0 +1,3 @@
+model,pfc_mean_20,contact_foot_velocity_example,checkpoint_or_source,motion_dir
+EDGE official,1.069844499904214,0.009303641505539417,checkpoint.pt,eval/ablation/edge_official_50
+w/o CCL scratch 100ep,2.310996178958383,0.023823482915759087,runs/train/edge_no_ccl_scratch_100ep/weights/train-100.pt,eval/ablation/no_ccl_50

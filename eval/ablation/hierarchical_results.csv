@@ -1,0 +1,3 @@
+model,pfc,beat_align,fid_k,div_k,div_k_gt
+edge_official (baseline),1.0698,0.2375,443.89,17.87,10.21
+edge_hierarchical_ft5,1.6345,0.3060,2282.59,33.01,10.21

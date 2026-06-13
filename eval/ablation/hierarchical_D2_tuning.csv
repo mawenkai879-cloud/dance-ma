@@ -1,0 +1,5 @@
+variant,hier_loss_weight,epochs,PFC_down,beat_align_up,fid_k_down,div_k,div_k_gt
+A_baseline,-,5,1.2785,0.2214,472.48,15.40,10.21
+D_both_orig,3.0,5,1.6345,0.3060,2282.59,33.01,10.21
+D2_both,1.5,10,0.6192,0.2642,170.57,4.91,10.21
+D2_both,1.5,25,1.1297,0.2258,176.48,9.59,10.21

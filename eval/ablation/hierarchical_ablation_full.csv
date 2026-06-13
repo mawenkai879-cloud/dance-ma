@@ -1,0 +1,8 @@
+id,method,hier_cond,hier_loss,loss_weight,epochs,PFC,beat_align,fid_k,div_k
+A,Baseline (EDGE),no,no,-,5,1.2785,0.2214,472.48,15.40
+B,+ Hier. Conditioning,yes,no,-,5,0.8484,0.2623,161.94,13.33
+C,+ Hier. Loss,no,yes,3.0,5,1.0365,0.2603,410.09,15.51
+D,+ Both,yes,yes,3.0,5,1.6345,0.3060,2282.59,33.01
+D2-10,+ Both (tuned),yes,yes,1.5,10,0.6192,0.2642,170.57,4.91
+D2-25,+ Both (tuned),yes,yes,1.5,25,1.1297,0.2258,176.48,9.59
+GT,Ground Truth,-,-,-,-,-,-,0.00,10.21

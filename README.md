@@ -15,6 +15,8 @@ clip. This project introduces a **two-level hierarchy**:
 This repository contains my full implementation, evaluation suite, and all the
 figures / numbers reported below.
 
+> **Detailed method write-up:** [`docs/方法详述.md`](docs/方法详述.md) (Chinese, with full equations) and [`docs/METHOD.md`](docs/METHOD.md) (English). Figure PDFs: [`docs/figures/`](docs/figures/).
+
 ---
 
 ## Method
